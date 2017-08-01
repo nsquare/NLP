@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Sun Jun 11 22:06:50 2017
 
-This is a temporary script file.
+@author: nilpa.jha
 """
 
 import collections
